@@ -262,6 +262,8 @@ th
     display: block; /* Centers video */
     border: 4px solid rgb(55, 131, 230);
     border-radius: 10px;
+    width: 50%;
+    height: 400px;
 }
 article p a 
 {
